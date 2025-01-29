@@ -16,3 +16,5 @@ python3 mosaic.py \
 
 Result: 
 ![results](results.png)
+
+These can be combined with OpenCV's stitcher (see the 'combine_images' notebook) but another option is to use [this app](https://play.google.com/store/apps/details?id=com.bcdvision.mapstitch&hl=en_US) and a smartphone to manually capture images (I use a remote trigger) while the stage moves through the grid.
